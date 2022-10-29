@@ -12,6 +12,7 @@
 
 * [trinket.io](https://trinket.io/)
 * [google colab](https://colab.research.google.com/)
+* [gradio](https://gradio.app/)
 * [Kahoot](https://kahoot.com/)
 
 ## Trinket Turtle Graphics 知識點:
