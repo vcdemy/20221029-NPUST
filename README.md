@@ -23,5 +23,13 @@
 
 ## pillow (PIL fork) 簡介
 
-## gradio 簡介
+* 讀取圖片
+* 顯示圖片
+* 讀取圖片屬性
+* 儲存圖片
+* 繪製圖形
 
+## Face_Recognition 簡介
+
+* Face Detection
+* Face Recognition
